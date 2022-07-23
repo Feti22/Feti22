@@ -15,9 +15,9 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> 
@@ -25,16 +25,12 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 
 ## 📊 My Github Stats
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-
-
-<a href="https://github.com/Feti22">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true" alt="My GitHub stats" />
-</a>
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true" alt="My GitHub stats" />
 </div>  
- 
-<br/>
+ <br/>
 
 <div align="center">  
 <a href="https://github.com/Feti22/github-readme-activity-graph"><img alt="Fethi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Feti22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -55,5 +51,5 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Feti22">
 </a>
-<a href="https://github.com/anmolpandit-996?tab=followers"><img src="https://img.shields.io/github/followers/Feti22?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Feti22?tab=followers"><img src="https://img.shields.io/github/followers/Feti22?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>  
