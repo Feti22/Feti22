@@ -1,9 +1,9 @@
 ## 🙋‍♂️ About Me
 
-### Hi there 👋
+### Hi there!
 I'm Fethi Arjouni, a Junior Software Developer based in Winnipeg, MB, Canada.
 
-I'm a passionate developer focused on creating amazing, user-friendly and customer-oriented interactive applications and functional websites. 
+I'm a passionate developer focused on creating amazing, user-friendly and interactive applications and functional websites. 
 
 My programming experience includes JavaScript, React, and C#.
 
