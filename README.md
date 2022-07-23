@@ -26,7 +26,12 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 ## 📊 My Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true&hide_border=true" align="center" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
+
+
+<a href="https://github.com/Feti22">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true" alt="My GitHub stats" />
+</a>
 </div>  
  
 <br/>
