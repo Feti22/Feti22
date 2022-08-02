@@ -25,9 +25,8 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 
 ## 📊 My Github Stats
 
-<div align="center">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&count_private=true" alt="My GitHub stats" />
-</div>  
+<p>&nbsp;<img width="98%" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&locale=en" alt="Feti22" /></p>
+
 <br/>
 
 <div align="center">  
@@ -50,4 +49,4 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
     <img src="https://komarev.com/ghpvc/?username=Feti22">
 </a>
 <a href="https://github.com/Feti22?tab=followers"><img src="https://img.shields.io/github/followers/Feti22?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>  
+</div>
