@@ -25,9 +25,9 @@ I'm a passionate developer focused on creating amazing, user-friendly and intera
 
 ## 📊 My Github Stats
 
-<p>&nbsp;<img width="98%" align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&locale=en" alt="Feti22" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&locale=en" alt="Feti22" /></p>
 
-<br/>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Feti22&" alt="Feti22" /></p>
 
 <div align="center">  
 <a href="https://github.com/Feti22/github-readme-activity-graph"><img alt="Fethi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Feti22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
