@@ -1,10 +1,3 @@
-## 🙋‍♂️ About Me
-
-### Hi there!
-I'm Fethi, a Software Developer based in Winnipeg, Canada.
-
-I'm a passionate developer focused on creating amazing, user-friendly and interactive applications and functional websites. 
-
 ## 🚀 Languages and Tools:
 
 <div align="center">  
