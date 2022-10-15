@@ -12,7 +12,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> 
 </div>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feti22&show_icons=true&locale=en" alt="Feti22" /></p>
 
