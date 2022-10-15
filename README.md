@@ -1,7 +1,3 @@
-<div align="center">
-<a href="#"><img width="100%" height="600 pxl" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif"/></a>
-</div>  
-
 ## 🙋‍♂️ About Me
 
 ### Hi there!
