@@ -18,9 +18,11 @@
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Feti22&" alt="Feti22" /></p>
 
+<!--
 <div align="center">  
 <a href="https://github.com/Feti22/github-readme-activity-graph"><img alt="Fethi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Feti22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
+-->
 
 ## Connect with me:
 <div align="center">
